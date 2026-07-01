@@ -1,43 +1,39 @@
-# Hi there, I'm Navaras Shrestha 👋
+# Hi there, I'm Navaras Shrestha 
 
-I am a data-focused computing graduate with hands-on experience in **Data Engineering, AI/ML, and Full-Stack Development**. I love building end-to-end data pipelines, training machine learning models, and turning complex backends into production-ready web applications. 
+I am a data-focused computing graduate specializing in **Data Analytics, Engineering and AI/ML Full-Stack Development**[cite: 1]. I bridge the gap between robust data infrastructure, insightful analytics, and production-ready applications[cite: 1].
 
-📍 Based in Kathmandu, Nepal  
-💼 Open to dynamic roles where I can drive data-driven impact at scale.
-
----
-
-### 🚀 What I Do
-*   **Data Engineering & ML:** Building robust scraping pipelines, optimizing recommendation engines, and experimenting with generative AI/NLP.
-*   **Full-Stack Development:** Engineering scalable web platforms using the MERN stack and Django.
-*   **Cloud & Devops:** Implementing AWS solutions and containerizing environments with Docker.
+📍 Kathmandu, Nepal[cite: 1] | Open to dynamic roles driving data-driven impact at scale[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Core Expertise
+* **Data Engineering & Analytics:** Building scalable scraping pipelines[cite: 1], engineering ETL workflows, and performing advanced exploratory data analysis (EDA) to drive insights[cite: 1].
+* **AI/ML Development:** Optimizing hybrid recommendation engines, fine-tuning ML models, and exploring Generative AI/NLP[cite: 1].
+* **Full-Stack Engineering:** Designing secure, containerized web ecosystems and robust API backends[cite: 1].
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, JavaScript (ES6+) |
-| **Data & ML** | Pandas, NumPy, Scikit-learn, PyTorch, Neural Networks, Prompt Engineering |
-| **Databases** | PostgreSQL, MySQL, SQL Server, MongoDB |
-| **Frameworks** | Django REST Framework, React, Node.js, Express.js |
-| **DevOps & Cloud** | AWS, Docker, Git, GitHub, Linux |
+---
+
+### Tech Stack
+
+* **Languages:** Python, SQL, JavaScript[cite: 1]
+* **Data & Analytics:** Pandas, NumPy, Scikit-learn, PyTorch, Data Visualization[cite: 1]
+* **Databases & Cloud:** PostgreSQL, MySQL, SQL Server, MongoDB, AWS[cite: 1]
+* **Frameworks & Tools:** Django REST Framework, MERN Stack, Docker, Git[cite: 1]
 
 ---
 
 ### 💻 Featured Projects
 
-⚡ **[Catalyst](https://github.com/Navaras-g/Catalyst) — All-Out Productivity Platform**
-*   Built a full-stack productivity app featuring Kanban boards, habit analytics, and a Pomodoro timer.
-*   Implemented **JWT authentication, an NLP-powered natural language task parser**, and a gamification framework.
-*   *Tech:* Django REST Framework, React, PostgreSQL, Docker.
+⚡ **[Catalyst](https://github.com/Navaras-g/Catalyst) — Productivity Platform**[cite: 1]
+Full-stack app featuring an NLP task parser, habit analytics engine, and JWT authentication[cite: 1]. Containerized via Docker[cite: 1]. 
 
-🤝 **[Manobal](https://github.com/Navaras-g/ngo-web-app) — NGO Web Application**
-*   Developed a full-stack platform supporting role-based access control for 5 user types (Admins, Volunteers, Donors, Schools, Public).
-*   Integrated Leaflet.js for interactive maps and established secure donation tracking workflows.
-*   *Tech:* MongoDB, Express.js, React, Node.js.
+🤝 **[Manobal](https://github.com/Navaras-g/ngo-web-app) — NGO Web Application**[cite: 1]
+MERN stack platform supporting role-based access for 5 user types, Leaflet.js map tracking, and live donation features[cite: 1].
 
-📊 **[Global Layoffs Data Pipeline & EDA](https://github.com/Navaras-g/SQL-Layoffs-Explore)**
-*   Cleaned and standardized a 2,000+ row dataset using advanced SQL techniques (Window functions, CTEs, complex JOINs) to unearth structural industry tech layoff trends.
-*   *Tech:* MySQL.
+📊 **[Global Layoffs](https://github.com/Navaras-g/SQL-Layoffs-Explore) — Data Analytics & EDA**[cite: 1]
+Cleaned and analyzed a 2,000+ row dataset using advanced SQL (Window functions, CTEs) to surface global tech industry layoff trends[cite: 1].
+
+---
+
+### 📫 Connect with Me
+🔗 **Links:** [LinkedIn](https://linkedin.com/in/navaras-shrestha) | [Email](mailto:shresthanavaras345@gmail.com) | [GitHub](https://github.com/Navaras-g)[cite: 1]
