@@ -1,13 +1,11 @@
 # Navaras Shrestha 
 
-I am a data-driven computer science graduate specializing in **Data Analytics, Data Engineering, and AI-powered Full-Stack Development**. I bridge the gap between robust data infrastructure, actionable insights, and production-ready intelligent applications. Currently, I am focused on expanding my expertise in advanced AI systems and generative workflows.
+I am a data-driven computer science graduate specializing in **Data and AI-powered Full-Stack Development**. I bridge the gap between robust data infrastructure, actionable insights, and production-ready intelligent applications. Currently, I am focused on expanding my expertise in advanced AI systems and generative workflows.
 
 ---
 
 ### My Core Area
-* **Data Engineering & Analytics:** Building scalable scraping pipelines, engineering ETL workflows, and performing advanced exploratory data analysis (EDA) to drive insights.
-* **AI/ML Development:** Optimizing hybrid recommendation engines, fine-tuning ML models, and exploring Generative AI/NLP.
-* **Full-Stack Engineering:** Designing secure, containerized web ecosystems and robust API backends.
+ETL + Analytics · ML Implemented Systems · GenAI/NLP · Full-Stack Web Development · Docker & API Design
 
 ---
 
@@ -16,7 +14,7 @@ I am a data-driven computer science graduate specializing in **Data Analytics, D
 * **Languages:** Python, SQL, JavaScript
 * **Data & Analytics:** Pandas, NumPy, Scikit-learn, PyTorch, Data Visualization
 * **Databases & Cloud:** PostgreSQL, MySQL, SQL Server, MongoDB, AWS
-* **Frameworks & Tools:** Django REST Framework, MERN Stack, Docker, Git
+* **Frameworks & Tools:** Django, MERN Stack, Docker, Git
 
 ---
 
